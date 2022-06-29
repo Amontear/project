@@ -1,3 +1,5 @@
+@import url('https://fonts.googleapis.com/css2?family=Smooch&display=swap');
+
 *{
     margin: 0 auto;
 padding: 0;
@@ -45,4 +47,9 @@ background: linear-gradient(356deg, rgba(242,243,5,1) 24%, rgba(0,14,255,1) 100%
 .asus2 {
     top: -44px;
     left: 278px;
+}
+.text {
+    font-family: 'Smooch', cursive;
+    font-size: 50px;
+    color: #0d0401;
 }
